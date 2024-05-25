@@ -13,7 +13,7 @@ Placement Hub is a community platform designed to facilitate job alerts and prep
 - **User Profiles**: Create profiles to showcase skills, experience, and achievements.
 
 ## Placement Hub Website Preview
-
+https://github.com/Paramhans-Singh/Placement-Hub/assets/101575816/f086d720-0ba6-4f53-a4ff-9243baeb5428
 
 ## Usage
 
